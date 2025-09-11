@@ -1,0 +1,11 @@
+# Fichiers compilés
+*.o
+*.a
+obj/
+.DS_Store
+*.dSYM/
+*.swp
+*.swo
+*~
+infile
+outfile
