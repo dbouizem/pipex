@@ -1,8 +1,8 @@
 # pipex
-[![42 School](https://img.shields.io/badge/42-Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
-[![Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
 [![Norminette](https://img.shields.io/badge/Norminette-passing-success?style=for-the-badge)](https://github.com/42School/norminette)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+![Grade](https://img.shields.io/badge/Grade-125%2F100-brightgreen?style=for-the-badge)
 
 > A robust C implementation of Unix pipes and process management, demonstrating deep understanding of inter-process communication, file descriptor manipulation, and system-level programming.
 C reimplementation of Unix shell pipes using raw POSIX syscalls — no `popen`, no `system`, no abstractions.
